@@ -1,0 +1,12 @@
+./data/SET12/01.png 0
+./data/SET12/02.png 0
+./data/SET12/03.png 0
+./data/SET12/04.png 0
+./data/SET12/05.png 0
+./data/SET12/06.png 0
+./data/SET12/07.png 0
+./data/SET12/08.png 0
+./data/SET12/09.png 0
+./data/SET12/10.png 0
+./data/SET12/11.png 0
+./data/SET12/12.png 0
